@@ -10,7 +10,7 @@ When posting:
 * All content must be family friendly and 'safe for work'
 * Be polite and respectful to each other - if there's a nice way of saying something do it that way
 * Don't be self-promotional - this is meant to be a HELPFUL community
-* Be helpful and guide others with useful information (and if they are contrevening a rule)
+* Be helpful and guide others with useful information (and if they are contravening a rule)
 * To be specific around self-promotion - if the majority of your activity on the group is spent advertising your things/non-job related items, you will be banned
 
 In general:
@@ -28,14 +28,14 @@ When disagreeing, please reply to the argument instead of calling names. "That i
 
 Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
 
-Eschew flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
+Avoid flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
 
 Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
 
 
 ## Examples of Good Topics for the Community
 
-On-Topic: Anything that a job-seeking doctor would find helpful/interesting, general discussions around topics of interest are also encouraged.
+On-Topic: Anything that a job-seeking doctor would find helpful/interesting, general discussions around topics of interest are also encouraged. Agony aunt like posts should be avoided (it does little to assist anyone)
 
 Off-Topic: Classified posts for generic items that are not relevant to JOB SEEKING medics (accommodation, random courses), sensitive topics that do not really further the community interest but create conflict (e.g. politics / religion / personal belief systems)
 
@@ -48,13 +48,11 @@ Comments should get more thoughtful and substantive, not less, as a topic gets m
 
 When disagreeing, please reply to the argument instead of calling names. "That is idiotic; 1 + 1 is 2, not 3" can be shortened to "1 + 1 is 2, not 3."
 
-Don't be curmudgeonly. Thoughtful criticism is fine, but please don't be rigidly or generically negative.
-
-Please don't fulminate. Please don't sneer, including at the rest of the community.
+Don't be snarky. Thoughtful criticism is fine, but please don't be rigidly or generically negative.
 
 Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
 
-Eschew flamebait. Avoid generic tangents. Omit internet tropes.
+Avoid flamebait. Avoid generic tangents. Omit internet tropes.
 
 Please don't post shallow dismissals, especially of other people's work. A good critical comment teaches us something.
 
