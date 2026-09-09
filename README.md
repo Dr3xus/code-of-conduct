@@ -64,7 +64,7 @@ Anonymous posts are ok for sensitive information, but please don't over do it. T
 
 Please don't use uppercase for emphasis. If you want to emphasize a word or phrase, put *asterisks* around it and it will get italicized.
 
-Please don't post insinuations about astroturfing, shilling, brigading, foreign agents, and the like. It degrades discussion and is usually mistaken. If you're worried about abuse, email hn@ycombinator.com and we'll look at the data.
+Please don't post insinuations about astroturfing, shilling, brigading, foreign agents, and the like. It degrades discussion and is usually mistaken. 
 
 Please don't complain that a submission is inappropriate. If a story is spam or off-topic, flag it. Don't feed egregious comments by replying; flag them instead. If you flag, please don't also comment that you did.
 
@@ -108,7 +108,7 @@ We take a strong stance to any DM spam. If you send unsolicited self-promotional
 
 ## Cross posting
 
-Sometimes you want to post something that could fit into two different channels. For example, if you're working on a tricky Python problem, maybe it's relevant to #python and #algorithms. In general, you should only post your message to a single channel, as many people are in a lot of channels and don't want to read the same postings twice.
+Sometimes you want to post something from a different community/source. The question to ask is - what value does it add to the reader/community if posted again?
 
 Use your judgement or ask an admin if you're not sure. Sometimes it's OK to cross post, but usually not. When cross posting, you should always do it by posting once, copying a link to that message, and posting the link in another channel. This lets people follow the conversation if both channels have follow up conversations. Don't copy-paste the same content into multiple channels.
 
@@ -176,7 +176,7 @@ These topics, while potentially interesting, have shown a tendency to lead to he
 
 * Politics, including politicians (e.g. Trump good/bad), political parties (e.g. ANC good/bad), or political ideologies (e.g. Communism good/bad)
 * Religion
-* Controversial current events (e.g. COVID-19, climate change)
+* Controversial current events - unless you are genuinely going to engage deeply/consistently
 * Personal ideologies
 * Divisive social issues
 
