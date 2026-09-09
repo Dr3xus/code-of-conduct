@@ -10,13 +10,13 @@ When posting:
 * All content must be family friendly and 'safe for work'
 * Be polite and respectful to each other - if there's a nice way of saying something do it that way
 * Don't be self-promotional - this is meant to be a HELPFUL community
-* Be helpful and guide others with useful information (and if they are contrevening a rule)
+* Be helpful and guide others with useful information (and if they are contravening a rule)
 * To be specific around self-promotion - if the majority of your activity on the group is spent advertising your things/non-job related items, you will be banned
 
 In general:
 
-* Do not harass people
-* Do not share personal information of others with people outside the community
+- Do not harass people
+- Do not share personal information of others with people outside the community
 
 This is a safe space, let's keep it that way.
 
@@ -28,14 +28,14 @@ When disagreeing, please reply to the argument instead of calling names. "That i
 
 Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
 
-Eschew flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
+Avoid flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
 
 Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
 
 
 ## Examples of Good Topics for the Community
 
-On-Topic: Anything that a job-seeking doctor would find helpful/interesting, general discussions around topics of interest are also encouraged.
+On-Topic: Anything that a job-seeking doctor would find helpful/interesting, general discussions around topics of interest are also encouraged. Agony aunt like posts should be avoided (it does little to assist anyone)
 
 Off-Topic: Classified posts for generic items that are not relevant to JOB SEEKING medics (accommodation, random courses), sensitive topics that do not really further the community interest but create conflict (e.g. politics / religion / personal belief systems)
 
@@ -48,13 +48,11 @@ Comments should get more thoughtful and substantive, not less, as a topic gets m
 
 When disagreeing, please reply to the argument instead of calling names. "That is idiotic; 1 + 1 is 2, not 3" can be shortened to "1 + 1 is 2, not 3."
 
-Don't be curmudgeonly. Thoughtful criticism is fine, but please don't be rigidly or generically negative.
-
-Please don't fulminate. Please don't sneer, including at the rest of the community.
+Don't be snarky. Thoughtful criticism is fine, but please don't be rigidly or generically negative.
 
 Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
 
-Eschew flamebait. Avoid generic tangents. Omit internet tropes.
+Avoid flamebait. Avoid generic tangents. Omit internet tropes.
 
 Please don't post shallow dismissals, especially of other people's work. A good critical comment teaches us something.
 
@@ -107,6 +105,14 @@ Harassment includes:
 While the community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. In general, it's polite to ask in a public channel for permission to DM another member before doing so.
 
 We take a strong stance to any DM spam. If you send unsolicited self-promotional messages by DM to any of our members, you may be banned from our community without further warning.
+
+## Cross posting
+
+Sometimes you want to post something that could fit into two different channels. For example, if you're working on a tricky Python problem, maybe it's relevant to #python and #algorithms. In general, you should only post your message to a single channel, as many people are in a lot of channels and don't want to read the same postings twice.
+
+Use your judgement or ask an admin if you're not sure. Sometimes it's OK to cross post, but usually not. When cross posting, you should always do it by posting once, copying a link to that message, and posting the link in another channel. This lets people follow the conversation if both channels have follow up conversations. Don't copy-paste the same content into multiple channels.
+
+We're more open to cross-posting if it's something that clearly benefits the community. We're almost never OK with cross posting for self promotional messages.
 
 ## Conduct specific to job postings and recruitment activities
 
